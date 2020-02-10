@@ -1,3 +1,7 @@
+
+# Mac folder view file
+.DS_store
+
 # History files
 .Rhistory
 .Rapp.history
