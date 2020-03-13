@@ -15,7 +15,7 @@ write.table(
 
 write.table(
   paste0(
-    "http://unlikelyvolcano.com/collaborative-exit-poll/scans/2020/nh-p/",
+    "http://unlikelyvolcano.com/collaborative-exit-poll/scans/2020/tx-p/",
     list.files("scans/2020/tx-p")
   ),
   "mturk-ul/tx-p-1.csv",
