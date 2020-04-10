@@ -1,4 +1,4 @@
-## I am completely rewriting the code for this project as we ramp up future efforts.
+## I am completely rewriting the code for this project as we ramp up future efforts; however, this project is on hold due to the COVID-19 pandemic.
 
 ```
       __  __            __   _               __          __  
