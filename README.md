@@ -12,7 +12,3 @@
 Back-end for a consortium of colleges conducting statewide exit polling.
 
 [Click here for the GitHub repo.](https://github.com/UnlikelyVolcano/collaborative-exit-poll)
-
-
-
-![px]("https://in.getclicky.com/101237072ns.gif")
