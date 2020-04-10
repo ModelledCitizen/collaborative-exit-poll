@@ -15,4 +15,4 @@ Back-end for a consortium of colleges conducting statewide exit polling.
 
 
 
-![]("https://in.getclicky.com/101237072ns.gif")
+![px]("https://in.getclicky.com/101237072ns.gif")
