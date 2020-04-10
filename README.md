@@ -13,10 +13,4 @@ Back-end for a consortium of colleges conducting statewide exit polling.
 
 [Click here for the GitHub repo.](https://github.com/UnlikelyVolcano/collaborative-exit-poll)
 
-<div id="tracking">
-      <script>
-            var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101237072);
-      </script>
-      <script async src="//static.getclicky.com/js"></script>
-      <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101237072ns.gif" /></p></noscript>
-</div>
+<p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101237072ns.gif" /></p>
